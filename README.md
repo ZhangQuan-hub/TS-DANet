@@ -44,7 +44,7 @@ Note: Version inconsistency does not have a significant impact on performance.
 
 
 ## 6. Auxiliary code for Training and Acknowledgment
-This repo is based on [SSRNET](https://github.com/hw2hwei/SSRNET), which is an exellent work. All training architectures are based on SSRNET. You should only change the **model.py** file to our proposed model.
+This repo is based on [SSRNET](https://github.com/hw2hwei/SSRNET), which is an exellent work. All training architectures are based on SSRNET. You should only change the **model.py** file to our proposed model.py.
 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14928469.svg)](https://doi.org/10.5281/zenodo.14928469)
