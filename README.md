@@ -1,6 +1,6 @@
 # 3DCNet
 
-《ATIS-Driven 3DCNet: A Novel Three-Stream Hyperspectral Fusion Framework with Knowledge from Downstream Classification Performance》.
+["ATIS-Driven 3DCNet: A Novel Three-Stream Hyperspectral Fusion Framework with Knowledge from Downstream Classification Performance"](https://www.mdpi.com/2072-4292/17/5/825)
 
 **Remote Sensing, 2025.**
 
@@ -9,5 +9,7 @@
 **Please cite:**
 Zhang Q, Long J, Li J, et al. ATIS-Driven 3DCNet: A Novel Three-Stream Hyperspectral Fusion Framework with Knowledge from Downstream Classification Performance[J]. Remote Sensing, 2025, 17(5): 825.
 
+
+The training process.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14928469.svg)](https://doi.org/10.5281/zenodo.14928469)
