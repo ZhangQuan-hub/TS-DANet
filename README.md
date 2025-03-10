@@ -50,4 +50,4 @@ This repo is based on [SSRNET](https://github.com/hw2hwei/SSRNET), which is an e
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14928469.svg)](https://doi.org/10.5281/zenodo.14928469)
 
 ## 7. Contact
-If you have any questions, please contact me at zq@nudt.edu.cn.
+If you have any questions, please contact me at zq@nudt.edu.cn
