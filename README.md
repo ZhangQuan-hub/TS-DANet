@@ -1,27 +1,25 @@
 
 <!-- 一级标题 -->
 ## 1. Title
-[ATIS-Driven 3DCNet: A Novel Three-Stream Hyperspectral Fusion Framework with Knowledge from Downstream Classification Performance.](https://www.mdpi.com/2072-4292/17/5/825) Remote Sensing, 2025.
+[TS-DANet: Truncated SVD Interaction and Dual-Attention Network for Hyperspectral and Multispectral Image Fusion](https://ieeexplore.ieee.org/abstract/document/11006068) IEEE Geoscience and Remote Sensing Letters, 2025.
 
 
 
 ## 2. Network Architecture
-![image](https://github.com/user-attachments/assets/5b089728-a946-4fbf-96a9-915914b5c1c8)
+![image](https://github.com/user-attachments/assets/e604c598-edf2-40ef-8021-6b306f1712e2)
+
 
 ## 3. Please cite
 
 If you use any part of this code, please cite the following paper:
 
 ```
-@article{zhang2025atis,
-  title={ATIS-Driven 3DCNet: A Novel Three-Stream Hyperspectral Fusion Framework with Knowledge from Downstream Classification Performance},
-  author={Zhang, Quan and Long, Jian and Li, Jun and Li, Chunchao and Si, Jianxin and Peng, Yuanxi},
-  journal={Remote Sensing},
-  volume={17},
-  number={5},
-  pages={825},
+@article{zhang2025ts,
+  title={TS-DANet: Truncated SVD Interaction and Dual-Attention Network for Hyperspectral and Multispectral Image Fusion},
+  author={Zhang, Quan and Long, Jian and Li, Jun and Peng, Mingze and Peng, Yuanxi and Liu, Yinuo},
+  journal={IEEE Geoscience and Remote Sensing Letters},
   year={2025},
-  publisher={Multidisciplinary Digital Publishing Institute}
+  publisher={IEEE}
 }
 ```
 
@@ -47,7 +45,7 @@ Note: Version inconsistency does not have a significant impact on performance.
 This repo is based on [SSRNET](https://github.com/hw2hwei/SSRNET), which is an exellent work. All training architectures are based on SSRNET. You should only change the **model.py** file to our proposed model.py.
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14928469.svg)](https://doi.org/10.5281/zenodo.14928469)
+
 
 ## 7. Contact
 If you have any questions, please contact me at zq@nudt.edu.cn
